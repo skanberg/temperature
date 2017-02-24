@@ -1,0 +1,15 @@
+.temp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.current {
+  font-size: 8em;
+}
+
+.time {
+  margin-top: 1em;
+  font-size: 3em;
+}
